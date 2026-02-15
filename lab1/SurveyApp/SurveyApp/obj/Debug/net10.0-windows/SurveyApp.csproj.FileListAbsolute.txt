@@ -1,0 +1,17 @@
+L:\РІК\lab1\SurveyApp\SurveyApp\bin\Debug\net10.0-windows\SurveyApp.exe
+L:\РІК\lab1\SurveyApp\SurveyApp\bin\Debug\net10.0-windows\SurveyApp.deps.json
+L:\РІК\lab1\SurveyApp\SurveyApp\bin\Debug\net10.0-windows\SurveyApp.runtimeconfig.json
+L:\РІК\lab1\SurveyApp\SurveyApp\bin\Debug\net10.0-windows\SurveyApp.dll
+L:\РІК\lab1\SurveyApp\SurveyApp\bin\Debug\net10.0-windows\SurveyApp.pdb
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.Form1.resources
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.csproj.GenerateResource.cache
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.GeneratedMSBuildEditorConfig.editorconfig
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.AssemblyInfoInputs.cache
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.AssemblyInfo.cs
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.csproj.CoreCompileInputs.cache
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.dll
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\refint\SurveyApp.dll
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.pdb
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.genruntimeconfig.cache
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\ref\SurveyApp.dll
+L:\РІК\lab1\SurveyApp\SurveyApp\obj\Debug\net10.0-windows\SurveyApp.Properties.Resources.resources
